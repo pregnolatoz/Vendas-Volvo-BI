@@ -57,7 +57,7 @@
 - **Goiás (Estado)**, **Porto Alegre** e **Belo Horizonte**
 
 #### Insight
-> - **Nordeste e Sudeste** (Fortaleza, Recife, Salvador, Rio de Janeiro e São Paulo) apresenta forte desempenho; vale reforçar a presença de peças e serviço pós-venda na região.  
+> - **Nordeste e Sudeste** (Fortaleza, Recife, Salvador, Rio de Janeiro e São Paulo) apresenta forte desempenho; vale reforçar a presença de peças e serviço pós-venda nas regiões.  
 > - **Sul** (Porto Alegre, Curitiba) está atrás; investigar possíveis barreiras logísticas ou de oferta.  
 > - **Centro-Oeste** (Goiás) pode ser um alvo para desenvolver promoções ou parcerias locais.
 
