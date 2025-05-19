@@ -51,13 +51,13 @@
 ## 4. Distribuição Regional de Faturamento por Loja
 
 ### Regiões/Cidades com maior faturamento
-- **Fortaleza**, **Recife**, **Rio de Janeiro**, **São Paulo**, **Belo Horizonte**.
+- **Fortaleza**, **Recife**, **Rio de Janeiro** e **São Paulo**
 
 ### Regiões com menor participação
-- **Goiás (Estado)**, **Porto Alegre**
+- **Goiás (Estado)**, **Porto Alegre** e **Belo Horizonte**
 
 #### Insight
-> - **Nordeste** (Fortaleza, Recife, Salvador) apresenta forte desempenho; vale reforçar a presença de peças e serviço pós-venda na região.  
+> - **Nordeste e Sudeste** (Fortaleza, Recife, Salvador, Rio de Janeiro e São Paulo) apresenta forte desempenho; vale reforçar a presença de peças e serviço pós-venda na região.  
 > - **Sul** (Porto Alegre, Curitiba) está atrás; investigar possíveis barreiras logísticas ou de oferta.  
 > - **Centro-Oeste** (Goiás) pode ser um alvo para desenvolver promoções ou parcerias locais.
 
